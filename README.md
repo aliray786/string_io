@@ -1,2 +1,2 @@
 # string_io
-For TIL Demo
+For Times Internet training purpose
